@@ -1,6 +1,6 @@
 # Hi there
-_I'm developer, focusing on modding and game development._
 
+_I'm developer, focusing on modding and game development._
 <br>
 
 <p>
